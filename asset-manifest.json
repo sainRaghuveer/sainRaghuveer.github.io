@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.743f6bdb.css",
-    "main.js": "/static/js/main.6567112e.js",
+    "main.js": "/static/js/main.cadf7c13.js",
     "static/js/787.442bcd46.chunk.js": "/static/js/787.442bcd46.chunk.js",
     "static/media/zara project image.png": "/static/media/zara project image.b36eed70ffa5d657a569.png",
     "static/media/expedia project.png": "/static/media/expedia project.88c186e3d7e51e57bb3f.png",
@@ -18,11 +18,11 @@
     "static/media/exp.jpg": "/static/media/exp.97d6020c1cc93add5a0a.jpg",
     "index.html": "/index.html",
     "main.743f6bdb.css.map": "/static/css/main.743f6bdb.css.map",
-    "main.6567112e.js.map": "/static/js/main.6567112e.js.map",
+    "main.cadf7c13.js.map": "/static/js/main.cadf7c13.js.map",
     "787.442bcd46.chunk.js.map": "/static/js/787.442bcd46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.743f6bdb.css",
-    "static/js/main.6567112e.js"
+    "static/js/main.cadf7c13.js"
   ]
 }
